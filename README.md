@@ -1,5 +1,10 @@
 python-version : 3.6.9
 
-i just want to make a website. and this is for recording. (login,logout, crud, api, recommendation or something)
-
-it is just for Practice Project 
+***
+### 주제
+ 장고 프레임워크를 이용하여 이런저런 기능을 구현해 보는 레포지토리입니다.
+ 최종적으로 멋들어진 웹 화면을 만들어보는 게 목표입니다. 
+### 구현완료한 기능
+-
+-
+-
